@@ -82,7 +82,7 @@
 
 ### Годовое сравнение менеджеров по коэффициенту 2
 
-![Коэффициент 2 по менеджерам] (images/Коэффициент 2 по менеджерам.png)
+![Коэффициент 2 по менеджерам] ([images/Коэффициент 2 по менеджерам.png](https://github.com/shireenhilal777-wq/customer-prolongation-analysis-2023/blob/bd2115b86d8d7edc0c5cf6204518d628ad4021f7/images/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82%202%20%D0%BF%D0%BE%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BC.png))
 
 ## Структура репозитория
 
